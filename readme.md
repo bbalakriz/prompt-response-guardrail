@@ -27,6 +27,3 @@ Check out the notebook in this repo for a complete, step-by-step usage guide.
 For more detailed instructions and to see Granite Guardrails in action, please refer to:
 
 [Granite Guardian Cookbook](https://github.com/ibm-granite/granite-guardian/blob/main/cookbooks/granite-guardian-3.1/usage_governance_workflow_vllm.ipynb).
-
-[LLM GuardRails with Granite Guardian
-](https://github.com/rh-aiservices-bu/llm-on-openshift/blob/main/examples/notebooks/langchain/Langchain-Granite-Guardian.ipynb)
